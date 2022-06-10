@@ -2,7 +2,7 @@
 
 Adds a custom personal space function to the game, allowing the user to select what players are hidden by personal space.
 
-This mod requires [ReMod.Core](https://github.com/RequiDev/ReMod.Core) for its Ui.  
+This mod requires [ReMod.Core](https://github.com/RequiDev/ReMod.Core) for its Ui.(Download it and put it in the VRChat folder, not the mods folder)
 
 I recommend getting [TabExtension](https://github.com/DragonPlayerX/TabExtension) to help with Quickmenu tab overcrowding. 
 
