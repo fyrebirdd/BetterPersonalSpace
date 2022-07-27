@@ -1,5 +1,4 @@
-<h1> Due to the recent announcment, ill be setting repository this as read-only. <h1>
- thanks for the fun couple of years, i'll see you all later :)
+<h1> Due to the recent announcment, ill be setting repository this as read-only. thanks for the fun couple of years, i'll see you all later :) <h1>
 
 
 
