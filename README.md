@@ -1,3 +1,9 @@
+<h1> Due to the recent announcment, ill be setting repository this as read-only. <h1>
+ thanks for the fun couple of years, i'll see you all later :)
+
+
+
+
 <h1>Better Personal Space</h1>
 
 Adds a custom personal space function to the game, allowing the user to select what players are hidden by personal space.
